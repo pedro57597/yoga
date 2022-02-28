@@ -1,0 +1,15 @@
+/*body*/
+body{
+background-color: rgb(197, 228, 218);
+}
+.container{
+    margin-top: 50px;
+}
+.contato{
+    text-align: center;
+    background-color:rgb(120, 189, 167) ;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+}
